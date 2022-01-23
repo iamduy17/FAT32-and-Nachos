@@ -6,7 +6,7 @@
 # Hệ điều hành 
 Tổng hợp 3 đồ án môn Hệ điều hành lớp 19_1, trường Đại học KHTN - TP.HCM
 
-### Thông tin nhóm
+## Thông tin nhóm
 
 |       Họ và tên      |   MSSV   | Email                           | 
 |----------------------|:--------:|---------------------------------|
@@ -16,8 +16,8 @@ Tổng hợp 3 đồ án môn Hệ điều hành lớp 19_1, trường Đại h�
 | Đỗ Thái Duy         | 19120492 | 19120492@student.hcmus.edu.vn        |
 | Nguyễn Bá Ngọc         | 19120603 | 19120603@student.hcmus.edu.vn        |
 
-### Tổng hợp 3 đồ án:
-**1. Project 1: Hệ thống quản lý tập tin trên Windows (FAT + NTFS).**
+## Tổng hợp 3 đồ án:
+### **1. Project 1: Hệ thống quản lý tập tin trên Windows (FAT + NTFS).**
 >Hình ảnh minh họa
 <div>
 <img src="Project_1/images/bootsectorFAT32.png" width="1080"/>
@@ -26,7 +26,7 @@ Tổng hợp 3 đồ án môn Hệ điều hành lớp 19_1, trường Đại h�
 <img src="Project_1/images/bootsectorNTFS.png" width="1080"/>
 </div>
 
-**2. Project 2: System call trên NACHOS.**
+### **2. Project 2: System call trên NACHOS.**
 >Hình ảnh minh họa
 <div>
 <img src="Project_2/images/demo1.png" width="1080"/>
@@ -36,13 +36,13 @@ Tổng hợp 3 đồ án môn Hệ điều hành lớp 19_1, trường Đại h�
 <img src="Project_2/images/demo5.png" width="1080"/>
 </div>
 
-**3. Project 3: Đa chương và đồng bộ hóa trên NACHOS.**
+### **3. Project 3: Đa chương và đồng bộ hóa trên NACHOS.**
 >Hình ảnh minh họa
 <div>
 <img src="Project_3/images/demo.png" width="1080"/>
 </div>
 
-**Cách chạy chương trình**
+## **Cách chạy chương trình**
 1. Project 1
 #### *Yêu cầu*:
 * Cài đặt Visual Studio.
@@ -66,4 +66,4 @@ Tổng hợp 3 đồ án môn Hệ điều hành lớp 19_1, trường Đại h�
 > userprog/nachos -rs 1023 -x ./test/readint
 
 3. Project 3
-> Thực hiện các bước tương tự Project 2
+**Thực hiện các bước tương tự Project 2**
