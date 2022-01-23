@@ -65,5 +65,5 @@ Tổng hợp 3 đồ án môn Hệ điều hành lớp 19_1, trường Đại h�
 * Gõ _userprog/nachos -rs 1023 -x ./test/_ + _tên chương trình_ cần chạy.
 > userprog/nachos -rs 1023 -x ./test/readint
 
-3. Project 3
-**Thực hiện các bước tương tự Project 2**
+3. Project 3 <br />
+`Thực hiện các bước tương tự Project 2`
